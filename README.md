@@ -8,3 +8,10 @@
   Já favorita esse repo ⭐ para não perder nenhuma novidade!
 </p>
 <br>
+
+# Atualizações
+* (10/01/2023) Archievements agora aparecem na versão mobile também
+* (07/10/2022) Possibilidade de ocultar seus Archievements
+
+* (09/06/2022) Github Archievements é lançado!
+<br>
